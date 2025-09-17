@@ -1,5 +1,5 @@
 # CavityEliashberg
-_Codes for the calculations in the manuscript "Cavity-induced Eliashberg effect: superconductivity vs charge density wave"_ ([arXiv:2509.07865](https://arxiv.org/abs/2509.07865))
+Codes for the calculations in the manuscript "_Cavity-induced Eliashberg effect: superconductivity vs charge density wave_" ([arXiv:2509.07865](https://arxiv.org/abs/2509.07865))
 
 **Fig. 2** can be reproduced using:
 - [GAP_vs_T_Fig2.ipynb](/GAP_vs_T_Fig2.ipynb)
