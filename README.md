@@ -7,3 +7,5 @@ Codes for the calculations in the manuscript "_Cavity-induced Eliashberg effect:
 
 **Fig. 3** can be reproduced using:
 - [delgapn_Fig3.ipynb](delgapn_Fig3.ipynb)
+
+© 2025 Md Mursalin Islam, All rights reserved
